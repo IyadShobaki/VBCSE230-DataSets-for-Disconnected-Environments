@@ -1,0 +1,12 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\bin\Debug\UntypedDataset-p.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\bin\Debug\UntypedDataset-p.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\bin\Debug\UntypedDataset-p.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\bin\Debug\UntypedDataset-p.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset_p.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset_p.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset-p.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset-p.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset-p.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset-p.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset-p.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataset-p\UntypedDataset-p\obj\Debug\UntypedDataset-p.vbprojAssemblyReference.cache

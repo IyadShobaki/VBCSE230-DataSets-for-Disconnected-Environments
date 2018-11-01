@@ -1,0 +1,22 @@
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\bin\Debug\UntypedDataSet.exe
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\bin\Debug\UntypedDataSet.pdb
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\bin\Debug\UntypedDataSet.xml
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.Form1.resources
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.Resources.resources
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.exe
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.xml
+C:\Users\shoover0526\Desktop\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\bin\Debug\UntypedDataSet.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\bin\Debug\UntypedDataSet.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\bin\Debug\UntypedDataSet.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week10\UntypedDataSet\UntypedDataSet\UntypedDataSet\obj\x86\Debug\UntypedDataSet.pdb
